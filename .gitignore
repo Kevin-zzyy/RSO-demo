@@ -1,20 +1,13 @@
-# Python
 __pycache__/
 *.pyc
 .env
 .venv/
-
-# macOS / 编辑器
 .DS_Store
 .vscode/
 .idea/
-
-# 运行产物
 demo_output.md
 demo_flow.png
 .streamlit/
-
-# 数据（按需）
 *.xlsx
 *.xls
 *.docx
