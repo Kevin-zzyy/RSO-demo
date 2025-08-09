@@ -4,3 +4,4 @@ python-docx
 networkx
 matplotlib
 numpy
+streamlit
